@@ -1,5 +1,5 @@
 {
-  "configVersion": -1,
+  "configVersion": 3,
   "cauldronInventorySize": 4,
   "litItems": [
     "minecraft:flint_and_steel",
